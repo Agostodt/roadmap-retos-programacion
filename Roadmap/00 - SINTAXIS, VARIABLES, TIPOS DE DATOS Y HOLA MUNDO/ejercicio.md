@@ -2,6 +2,7 @@
 > #### Dificultad: Fácil | Publicación: 26/12/23 | Corrección: 02/01/24
 
 ## Ejercicio
+Hola https://www.python.org/!
 
 ```
 /*
